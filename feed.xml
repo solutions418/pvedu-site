@@ -1,0 +1,153 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pveducation.com/</id>
+  <title>PVeducation</title>
+  <subtitle>Information about PV Solar, components, systems and design.</subtitle>
+  <updated>2025-02-14T22:35:31-05:00</updated>
+  <author>
+    <name>PVeducation.com</name>
+    <uri>https://pveducation.com/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://pveducation.com/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://pveducation.com/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 PVeducation.com </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Wind Speed, Snow Load, Seismic Ratings</title>
+    <link href="https://pveducation.com/posts/Wind-Speed-Snow-Load-Seismic-Ratings/" rel="alternate" type="text/html" title="Wind Speed, Snow Load, Seismic Ratings" />
+    <published>2025-02-12T00:00:00-05:00</published>
+  
+    <updated>2025-02-12T00:00:00-05:00</updated>
+  
+    <id>https://pveducation.com/posts/Wind-Speed-Snow-Load-Seismic-Ratings/</id>
+    <content type="text/html" src="https://pveducation.com/posts/Wind-Speed-Snow-Load-Seismic-Ratings/" />
+    <author>
+      <name>PVeducation.com</name>
+    </author>
+
+  
+    
+    <category term="Mounting" />
+    
+    <category term="Design" />
+    
+  
+
+  <summary>When designing a solar system you often need to know the design parameters related to a specific location.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>US Irradiance Maps</title>
+    <link href="https://pveducation.com/posts/US-Irradiance-Maps/" rel="alternate" type="text/html" title="US Irradiance Maps" />
+    <published>2025-02-12T00:00:00-05:00</published>
+  
+    <updated>2025-02-12T00:00:00-05:00</updated>
+  
+    <id>https://pveducation.com/posts/US-Irradiance-Maps/</id>
+    <content type="text/html" src="https://pveducation.com/posts/US-Irradiance-Maps/" />
+    <author>
+      <name>PVeducation.com</name>
+    </author>
+
+  
+    
+    <category term="Electrical" />
+    
+    <category term="Design" />
+    
+  
+
+  <summary>Here are some good US irradiance maps to show how the amount of irradiance varies throughout the US.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Temp Adjustment Conduit on Roof</title>
+    <link href="https://pveducation.com/posts/Temp-Adjustment-Conduit-on-Roof/" rel="alternate" type="text/html" title="Temp Adjustment Conduit on Roof" />
+    <published>2025-02-12T00:00:00-05:00</published>
+  
+    <updated>2025-02-12T00:00:00-05:00</updated>
+  
+    <id>https://pveducation.com/posts/Temp-Adjustment-Conduit-on-Roof/</id>
+    <content type="text/html" src="https://pveducation.com/posts/Temp-Adjustment-Conduit-on-Roof/" />
+    <author>
+      <name>PVeducation.com</name>
+    </author>
+
+  
+    
+    <category term="Electrical" />
+    
+    <category term="Design" />
+    
+  
+
+  <summary>When conduit is run on a roof top studies have shown the conduit will heat. The following table will provide a temperature adder based on the conduit mounting height.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Conduit Fill Table</title>
+    <link href="https://pveducation.com/posts/Conduit-Fill-Table/" rel="alternate" type="text/html" title="Conduit Fill Table" />
+    <published>2025-02-12T00:00:00-05:00</published>
+  
+    <updated>2025-02-12T00:00:00-05:00</updated>
+  
+    <id>https://pveducation.com/posts/Conduit-Fill-Table/</id>
+    <content type="text/html" src="https://pveducation.com/posts/Conduit-Fill-Table/" />
+    <author>
+      <name>PVeducation.com</name>
+    </author>
+
+  
+    
+    <category term="Electrical" />
+    
+    <category term="Design" />
+    
+  
+
+  <summary>As a solar system is designed you need to select the correct size conductor. The following tables will help in that selection.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Conductor Ampacity of CU</title>
+    <link href="https://pveducation.com/posts/Conductor-Ampacity-of-CU/" rel="alternate" type="text/html" title="Conductor Ampacity of CU" />
+    <published>2025-02-12T00:00:00-05:00</published>
+  
+    <updated>2025-02-12T00:00:00-05:00</updated>
+  
+    <id>https://pveducation.com/posts/Conductor-Ampacity-of-CU/</id>
+    <content type="text/html" src="https://pveducation.com/posts/Conductor-Ampacity-of-CU/" />
+    <author>
+      <name>PVeducation.com</name>
+    </author>
+
+  
+    
+    <category term="Electrical" />
+    
+    <category term="Design" />
+    
+  
+
+  <summary>As a solar system is designed you need to select the correct size conductor. The following tables will help in that selection.</summary>
+
+  </entry>
+
+</feed>
+
+

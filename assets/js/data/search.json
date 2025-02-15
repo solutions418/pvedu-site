@@ -1,0 +1,395 @@
+[
+  
+  {
+    "title": "Wind Speed, Snow Load, Seismic Ratings",
+    "url": "/posts/Wind-Speed-Snow-Load-Seismic-Ratings/",
+    "categories": "Mounting, Design",
+    "tags": "Design Parameters",
+    "date": "2025-02-12 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Wind Speed, Snow Load, Seismic RatingsWhen designing a solar system you often need to know the design parameters related to a specific location. The following is an external links that I use to loo...",
+    "content": "Wind Speed, Snow Load, Seismic RatingsWhen designing a solar system you often need to know the design parameters related to a specific location. The following is an external links that I use to look up site specific design information.https://ascehazardtool.org/This website is easy to use. Enter the address of the project and select the information you want to see."
+  },
+  
+  {
+    "title": "US Irradiance Maps",
+    "url": "/posts/US-Irradiance-Maps/",
+    "categories": "Electrical, Design",
+    "tags": "Design Parameters",
+    "date": "2025-02-12 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "US Irradiance MapsHere are some good US irradiance maps to show how the amount of irradiance varies throughout the US. Please click on these images for a larger version.The following map has a nice...",
+    "content": "US Irradiance MapsHere are some good US irradiance maps to show how the amount of irradiance varies throughout the US. Please click on these images for a larger version.The following map has a nice scale that shows the annual irradiance difference.The following map is the same as the one above. Please note the data is approximately the same. The difference is appearance is from the scale selected.AnnualJanFebMarAprMayJunJulAugSepOctNovDec"
+  },
+  
+  {
+    "title": "Temp Adjustment Conduit on Roof",
+    "url": "/posts/Temp-Adjustment-Conduit-on-Roof/",
+    "categories": "Electrical, Design",
+    "tags": "Design Parameters",
+    "date": "2025-02-12 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Temp Adjustment Conduit on RoofWhen conduit is run on a roof top studies have shown the conduit will heat. The following table will provide a temperature adder based on the conduit mounting height....",
+    "content": "Temp Adjustment Conduit on RoofWhen conduit is run on a roof top studies have shown the conduit will heat. The following table will provide a temperature adder based on the conduit mounting height. This is used to adjust the current carrying capacity of conductors.            Distance above roof  to bottom of conduit      Temperature  Adder (C)      Temperature  Adder (F)                  0 - 13mm (1/2”)      33      60              Above 13mm (1/2”) - 90mm (3-1/2”)      22      40              Above 90mm (3-1/2”) - 300mm (12”)      17      30              Above 300mm (12”) - 900mm (36”)      14      25      "
+  },
+  
+  {
+    "title": "Conduit Fill Table",
+    "url": "/posts/Conduit-Fill-Table/",
+    "categories": "Electrical, Design",
+    "tags": "Design Parameters",
+    "date": "2025-02-12 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Conduit Fill TableAs you design a solar system you will often need to know how many conductors can fit into a conduit. This is a quick reference to help you.  Based on NEC2014 Table C  Wire Type is...",
+    "content": "Conduit Fill TableAs you design a solar system you will often need to know how many conductors can fit into a conduit. This is a quick reference to help you.  Based on NEC2014 Table C  Wire Type is THHN, THWN, THWN-2            Conduit Size      Conduit Type      14AWG      12AWG      10AWG      8AWG      6AWG      4AWG      3AWG      2AWG      1AWG      1/0AWG      2/0AWG      3/0AWG      4/0AWG      250kcmil      300kcmil      350kcmil      400kcmil      500kcmil                  1/2”      EMT      12      9      5      3      2      1      1      1      1      1      0      0      0      0      0      0      0      0                     PVC      11      8      5      3      1      1      1      1      1      1      0      0      0      0      0      0      0      0              3/4”      EMT      22      16      10      6      4      2      1      1      1      1      1      1      1      0      0      0      0      0                     PVC      21      15      9      5      4      2      1      1      1      1      1      1      1      0      0      0      0      0              1”      EMT      35      26      16      9      7      4      3      3      1      1      1      1      1      1      1      1      0      0                     PVC      34      25      15      9      6      4      3      3      1      1      1      1      1      1      1      0      0      0              1-1/4”      EMT      61      45      28      16      12      7      6      5      4      3      2      1      1      1      1      1      1      1                     PVC      60      43      27      16      11      7      6      5      3      3      2      1      1      1      1      1      1      1              1-1/2”      EMT      84      61      38      22      16      10      8      7      5      4      3      3      2      1      1      1      1      1                     PVC      82      59      37      21      15      9      8      7      5      4      3      3      2      1      1      1      1      1              2”      EMT      138      101      63      36      26      16      13      11      8      7      6      5      4      3      3      2      1      1                     PVC      135      99      62      36      26      16      13      11      8      7      6      5      4      3      3      2      1      1              2-1/2”      EMT      241      176      111      64      46      28      24      20      15      12      10      8      7      6      5      4      4      3                     PVC      193      141      8      51      37      22      19      16      12      10      8      7      6      4      4      3      3      2              3”      EMT      364      266      167      96      69      43      36      30      22      19      16      13      11      9      7      6      6      5                     PVC      299      218      137      79      57      35      30      25      18      15      13      11      9      7      6      5      5      4              3-1/2”      EMT      476      347      219      126      91      56      47      40      29      25      20      17      14      11      10      9      8      6                     PVC      401      293      184      106      77      47      40      33      25      21      17      14      12      10      8      7      6      5              4”      EMT      608      443      279      161      116      71      60      51      37      32      26      22      18      15      13      11      10      8                     PVC      517      377      238      137      99      61      51      43      32      27      22      18      15      12      11      9      8      7      "
+  },
+  
+  {
+    "title": "Conductor Ampacity of CU",
+    "url": "/posts/Conductor-Ampacity-of-CU/",
+    "categories": "Electrical, Design",
+    "tags": "Design Parameters",
+    "date": "2025-02-12 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Conductor Ampacity of CUAs a solar system is designed you need to select the correct size conductor. The following tables will help in that selection. This information is based on the following:  N...",
+    "content": "Conductor Ampacity of CUAs a solar system is designed you need to select the correct size conductor. The following tables will help in that selection. This information is based on the following:  National Electric Code (NEC) Table 310.16  Conductors rated 0 to 2000 V  Not more than 3 current carrying conductors in raceway, cable or direct buried  Ambient Temp 30C (86F)Allowable Ampacity of Copper Conductors            Size AWG or kcmil      Conductor Temp  60C (140F)      Conductor Temp  75C (167F)      Conductor Temp  90C (194F)                  14*      20      20      25              12*      25      25      30              10*      30      35      40              8      40      50      55              6      55      65      75              4      70      85      95              3      85      100      110              2      95      115      130              1      110      130      150              1/0      125      150      170              2/0      145      175      195              3/0      165      200      225              4/0      195      230      260              250      215      255      290              300      240      285      320              350      260      310      350              400      280      335      380              500      320      380      430      14 AWG Maximum overcurrent = 15 amps12 AWG Maximum overcurrent = 20 amps10 AWG Maximum overcurrent = 30 ampsCorrection Factors for Different Ambient TemperaturesFor ambient temperatures other than 30C (86F) the following are multipliers used to adjust the above ampacity.  As the temperature of a conductor increases the amount of current the conductor can safety carry is reduced.            Ambient  Temperature (C)      Conductor Temp  60C (140F)      Conductor Temp  75C (167F)      Conductor Temp  90C (194F)      Ambient  Temperature (F)                  21-25      1.08      1.05      1.04      70-77              26-30      1.00      1.00      1.00      78-86              31-35      0.91      0.94      0.96      87-95              36-40      0.82      0.88      0.91      96-104              41-45      0.71      0.82      0.87      105-113              46-50      0.58      0.75      0.82      114-122              51-55      0.41      0.67      0.76      123-131              56-60      0      0.58      0.71      132-140              61-70      0      0.33      0.58      141-158              71-80      0      0      0.41      159-179      "
+  },
+  
+  {
+    "title": "Conductor Ampacity of AL",
+    "url": "/posts/Conductor-Ampacity-of-AL/",
+    "categories": "Electrical, Design",
+    "tags": "Design Parameters",
+    "date": "2025-02-12 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Conductor Ampacity of ALAs a solar system is designed you need to select the correct size conductor. The following tables will help in that selection. This information is based on the following:  N...",
+    "content": "Conductor Ampacity of ALAs a solar system is designed you need to select the correct size conductor. The following tables will help in that selection. This information is based on the following:  National Electric Code (NEC) Table 310.16  Conductors rated 0 to 2000 V  Not more than 3 current carrying conductors in raceway, cable or direct buried  Ambient Temp 30C (86F)Allowable Ampacity of Aluminum Conductors            Size AWG or kcmil      Conductor Temp  60C (140F)      Conductor Temp  75C (167F)      Conductor Temp  90C (194F)                  12*      20      20      25              10*      25      30      35              8      30      40      45              6      40      50      60              4      55      65      75              3      65      75      85              2      75      90      100              1      85      100      115              1/0      100      120      135              2/0      115      135      150              3/0      130      155      175              4/0      150      180      205              250      170      205      230              300      190      230      255              350      210      250      280              400      225      270      305              500      260      310      350      12 AWG Maximum overcurrent = 15 amps10 AWG Maximum overcurrent = 25 ampsCorrection Factors for Different Ambient Temperatures            Ambient  Temperature (C)      Conductor Temp  60C (140F)      Conductor Temp  75C (167F)      Conductor Temp  90C (194F)      Ambient  Temperature (F)                  21-25      1.08      1.05      1.04      70-77              26-30      1      1      1      78-86              31-35      0.91      0.94      0.96      87-95              36-40      0.82      0.88      0.91      96-104              41-45      0.71      0.82      0.87      105-113              46-50      0.58      0.75      0.82      114-122              51-55      0.41      0.67      0.76      123-131              56-60      0      0.58      0.71      132-140              61-70      0      0.33      0.58      141-158              71-80      0      0      0.41      159-179      "
+  },
+  
+  {
+    "title": "Calculate Array Voltage",
+    "url": "/posts/Calculate-Array-Voltage/",
+    "categories": "Electrical, Design",
+    "tags": "Solar Concepts",
+    "date": "2025-02-12 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Calculate Array VoltageThe output of  a mono-crystalline or poly-crystalline solar module changes as the its internal solar cell temperature changes. As these modules heat their voltage will decrea...",
+    "content": "Calculate Array VoltageThe output of  a mono-crystalline or poly-crystalline solar module changes as the its internal solar cell temperature changes. As these modules heat their voltage will decrease. As these modules cool their voltage will increase. When you look at a solar modules datasheet the voltage parameters provided are at an industry standard referred to as STC, Standard Test Conditions. STC is defined as 25C, 1000W/m2 and 1m/s wind speed (the light spectrum is also defined but this is a topic for another post).  You might be wondering why a wind speed is defined, this has to do with how the solar cell is being cooled by the light wind and will effect the performance of the modules output wattage.Vmodule = ([ (Tamb + Telev – Tstc) x b] +V)Where  Vmodule = The voltage of the module at a specific temperature  Tamb = Ambient temperature in Celsius  Telev = Temperature adder due to the mounting method used to affix the solar module to the ground or roof in Celsius  Tstc = Reference Cell Temperature, 25C  b = Temperature coefficient of voltage, volts/Celsius, this describes how the voltage changes with temperature  V = The voltage rating of the module that you want to adjust, Voc or VmpLets look closer at the inputs needed:Telev is an adder used to account for how heat will be trapped in the solar module as a result of how it is mounted. For example if you have an array that is ground mounted of a pole structure there is good air flow around the module keeping them cool. If you have an array mounted on a roof there is less air flow so the modules will run hotter. As a basic guideline I use the following adders, 20C for ground mounted with good airflow, 25C for roof mounted or tall standoffs or tilted and 30C for the typical shingle roof installation with flashing.b is a coefficient that the module manufacturer will provide that determines how the voltage will change as temperature changes. Pay attention, this is often a negative number and it must be written in volts/C. Typically you willl find ratings Voc and Vmp of a smodule but if only the Voc is available you can use this to adjust the Vmp.Using this to find the maximum and minimum voltage of an array we need to make one small change to the folmula:Varray = ([ (Tamb + Telev – Tstc) x b] +V) x (Nseries)Where  Varray = The voltage of an array of modules at a specific temperature  Nseries = The number of solar modules wired in series.  Tamb = Ambient temperature in Celsius  Telev = Temperature adder due to the mounting method used to affix the solar module to the ground or roof in Celsius  Tstc = Reference Cell Temperature, 25C  b = Temperature coefficient of voltage, volts/Celsius, this describes how the voltage changes with temperature  V = The voltage rating of the module that you want to adjust, Voc or VmpHere is how to use the above formula as it relates to selecting a grid connected inverter or MPPT charge controller. The idea is to calculate the maximum and minimum parameters and if they are within the parameters of the equipment being selected then you selected the correct component.Calculate Array Minimum MPPT VoltageVarrayMPPTmin = Varray when Tamb = Tmax and V = VmpWhere  Tmax = the maximum temperature at the project site, C  Vmp = the solar modules Vmp rating at STCCalculate Array Maximum MPPT VoltageVarrayMPPTmax = Varray when Tamb = Tmin, V = Vmp and Telev = 0Where  Tmin = the minimum temperature at the project site, C  Vmp = the solar modules Vmp rating at STC  Telev = zero, you are looking for the extreme so assume the mounting temperature adder is not at playCalculate Array CurrentAs a side note about current(I):Calculate the array current with Iarray = Imodule x Nparallel"
+  },
+  
+  {
+    "title": "Adjustment Factors Qty of Conductors",
+    "url": "/posts/Adjustment-Factors-Qty-of-Conductors/",
+    "categories": "Electrical, Design",
+    "tags": "Design Parameters",
+    "date": "2025-02-12 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Adjustment Factors Qty of ConductorsAs you design a solar system the tables I provide help you determine how much current is allowed to pass through a conductor but these cables are limited to a ma...",
+    "content": "Adjustment Factors Qty of ConductorsAs you design a solar system the tables I provide help you determine how much current is allowed to pass through a conductor but these cables are limited to a maximum of 3 current carrying conductors in the raceway. As the quantity of conductors increases the combined heat from the conductors will increase so the amount of allowable current must decrease. After you adjust the conductors ampacity for temperature this table will provide you with the percentage of that ampacity that is allowed. For example you can only use 80% of a conductors ampacity when there are 6 current carrying conductors in a raceway.What is a current carrying conductor?The intention is to count only the conductors that carry current and will add heat to the overall installation. A ground or bond conductor does not normally carry current and is not counted. The neutral conductor is sometimes counted. With solar if your array has a bonded negative that makes it a DC neutral conductor it would count because current normally flows through this conductor. For AC systems phase conductors always count. If you have 3 wires in an AC system, 2 phase conductors with 1 neutral and the neutral is carrying the current from the phase conductors, the neutral does not count. Any 2 wire circuit where the is a phase conductor and a neutral, both will count. If you have a 3 phase system with 3 phase conductors and a neutral (wye system) and you are only powering something with 2 phase conductors and a neutral, the neutral counts in this case. If your application is industrial in nature and you have non-linear loads the neutral counts.            Number of Conductors      Percent of Values                  4 to 6      80              7 to 9      70              10 to 20      50              21 to 30      45              31 to 40      40              41 and above      35      "
+  },
+  
+  {
+    "title": "sREC – Solar Renewable Energy Credits",
+    "url": "/posts/sREC-Solar-Renewable-Energy-Credits/",
+    "categories": "System, Revenue",
+    "tags": "Solar Concepts",
+    "date": "2025-02-11 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "sREC – Solar Renewable Energy CreditsWondering what an sREC is? sREC stands for Solar Renewable Energy Credit.  If you google the term there is a lot of in depth information available that will let...",
+    "content": "sREC – Solar Renewable Energy CreditsWondering what an sREC is? sREC stands for Solar Renewable Energy Credit.  If you google the term there is a lot of in depth information available that will let you understand all the details related to your state.  Here is my short answer leaving out the specific details for any one state.As some utility markets were deregulated the legislation passed included what is called an RPS, Renewable Portfolio Standard. The RPS basically says that a portion of the electric used in the state has to come from clean renewable resources, typically 20%. Of this typical 20% some states specifically stated what renewable technologies had to be used. In this example the state might have created a carve out of 2% that had to be solar.   Wondering why I’m avoiding state specific information, every state was different and in some cases very different. For example if a state was heavy into the coal industry  the definition of a renewable resource was stretched to include coal.A couple of good things happened when the RPS was created and one was financial penalties that the utilities have to pay if they don’t comply.  In  my opinion one of the bad parts about some of the RPS designs were states that allowed for cross border trading of the renewable energy credits. Due to the forces of supply and demand states that opened trade to other states saw the value of the sREC plummet. The best examples are states that have a requirement that the renewable energy has to be produced inside their state borders. This keeps the sREC price higher then other areas and helps foster growth of renewable energies in that state.An sREC is equal to 1000 kWH of solar production.  Utilities typically purchase these on an open market by bidding for in an auction. The price the utilities pay for the sREC is capped at the level of the fine imposed for noncompliance. The prices paid are essentially market driven by supply and demand so the prices will change over time. If you are interested in the current value of an sREC I would recommend looking for an sREC broker like srectrade.com where you will find charts showing the historical prices per state. Companies like this gather sREC from a lot of small system owners and make it easier on the utilities buy them in large blocks. I use srectrade.com currently to sell all my sREC and I’m very happy with their service. They automatically sell the sREC my solar systems generates, they keep their small reasonable commission and make send me the proceeds.Overall it is an easy process and it provides a income stream from the solar system.Let me first say that I’m not a tax adviser and you should talk to your tax adviser.  As tax time approaches each year I see questions about sREC’s and if they are taxable or not. As of this writing the IRS hasn’t been clear about if sREC income is taxable or not. My personal opinion is that they are taxable as income. I’ve read about people debating that they are not taxable because they are off setting the cost of a solar system and that no profit is being made because the cost is greater then the sREC’s received. An sREC is not a subsidy or a rebate, if it was the 30% federal tax credit should be calculated based on this reduced amount resulting in a lot smaller tax credit. With an sREC you are selling a certificate and in exchange for money and this needs to be accounted for as part of your gross income.  Again…just my opinion!"
+  },
+  
+  {
+    "title": "Solar System Output",
+    "url": "/posts/Solar-System-Output/",
+    "categories": "Array, Performance",
+    "tags": "Solar Concepts",
+    "date": "2025-02-11 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Solar System OutputIn order to ensure your solar system is operating correctly you should have a data monitor installed. Once the monitor is installed get in the habit of actually using it. It take...",
+    "content": "Solar System OutputIn order to ensure your solar system is operating correctly you should have a data monitor installed. Once the monitor is installed get in the habit of actually using it. It takes only seconds to look at the output of the system to know how it is performing.When the output of a solar electric system is graphed with time on the bottom axis and power on the vertical axis it forms a traditional bell curve.  In reality the image above on the right is what you will typically see from the system.  As clouds pass over the output of the solar array will change through out the day.I think the best way to learn what to look for is to look at examples. All of the following are real world systems:This is an output curve from my solar system in the middle of February. This system faces south east. This was a nice clear day and this is similar to the typical curve I see.  The sun rises and because my house is facing into a shallow valley it has to rise high enough to hit my array so I see a step power increase in the morning.  In the evening the system trails off nice and slow as the sun goes behind the array as it sets.  What I find interesting about this curve is in the middle of the day. The large increase in output power on this day was caused purely as the result of a temperature change. We were hit by the polar vortex in the middle of the day and the temperature dropped ~30 degrees very rapidly. As the temperature decreases the output of the solar array increases. In this case my system output an additional ~1500 watts of power.Believe it or not, this output curve is from a 24 kW residential system.  This was a clear cold day in February and you can see that in the entire middle part of the day the output curve flatten out. This is often referred to as power clipping. In this case the DC solar array is 20% larger then the AC inverter rating.  There is nothing wrong with this design or how the system is operating. The inverters are simply limited to 20 kW of output power. This is something that doesn’t occur often so there is little power loss over the course of the year.  You might design a system like this because in the summer when you have longer days you also have heat. The added heat is enough to lower the output of the solar array so that the inverter won’t clip.  A  design like this will yield a lower system cost.  With that said you also have to be careful with your sites location. This is in the mid-Atlantic. If you are in a colder location you will see more clipping and you migth consider keeping the DC array to AC inverter power ratio  closer to 1."
+  },
+  
+  {
+    "title": "Roof Zones",
+    "url": "/posts/Roof-Zones/",
+    "categories": "Array, Mounting",
+    "tags": "Solar Concepts",
+    "date": "2025-02-11 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Roof ZonesThe roof zone describes the amount of wind load that is subjected to the roof. Interior zones, zone 1, have the lowest load and account for about 80% of the roof surface. End zones, zone ...",
+    "content": "Roof ZonesThe roof zone describes the amount of wind load that is subjected to the roof. Interior zones, zone 1, have the lowest load and account for about 80% of the roof surface. End zones, zone 2, have a higher load than zone 1. They represent the perimeter of the roof and account for approximately 15% of the roof surface. Corner zones, zone 3, have the highest load. They are located at the corners of the roof and account for 5% of the roof surface.The roof zones come into play when designing how a solar system will attach to the roof.  If you have a flat roof and are using a ballasted system in which weight holds the array in place a larger amount of ballast is needed in zones 3 then in zones 1. If too little ballast is used the array can flip or move as it is subjected to strong winds."
+  },
+  
+  {
+    "title": "Common Electrical Services",
+    "url": "/posts/Common-Electrical-Services/",
+    "categories": "Electrical, Design",
+    "tags": "Solar Concepts",
+    "date": "2025-02-11 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Common Electrical ServicesAs you learn about designing and installing a solar system you also have to learn about the electrical services. Here is a break out of some of the common electrical servi...",
+    "content": "Common Electrical ServicesAs you learn about designing and installing a solar system you also have to learn about the electrical services. Here is a break out of some of the common electrical services found in the United States. Think of the electrical service either as the primary service the utility provides to a location but it can also be a service created with a transformer located inside of a commercial facility.Single Phase Three WireThis is the most common electrical service in the US as it is the service used in the typical residential home. Line 1 and Line 2 are considered the hot wires in the service. The neutral is bonded to ground. The voltage from Line 1 to Line 2 is 240V and this is used for larger loads in a home like an electric hot water heater or air conditioner. If you look at your homes electrical panel these are the larger double pole breakers.  The voltage from Line 1 or Line 2 to the Neutral is 120V and is used for smaller loads like lights and outlets.Three Phase Four Wire 208Y120V WyeThis electric service is the most common electric service in the US at commercial properties. The 208V 3-phase is used to power larger loads and standard 120V is available for outlets. The title of this service is a little redundant as this service is often referred to as a 3-phase 208Y120. Wye is pronounced as “Y” and denotes that there is a neutral in the service.Three Phase Four Wire 480Y277V WyeThis electric service is found in larger commercial and industrial facilities. The 480V 3-phase is used to power large loads like motors. The 277V is often used for lighting circuits and smaller loads. When this is the primary service to a facility you will typically find a transformer that is a 480V Delta\\208Y120V that power a sub panel to provide standard 120V for outlets and small loads.Three Phase Three Wire DeltaInside of commercial and industrial facilities motor loads will typically run on a delta service. As you can see from the above there is no neutral in a delta service. I used 480V as the voltages above but these can be any voltage, 240V, 400V, 480V, and 600V are all common transformer voltages.Three Phase Four Wire Delta with a High LegThis service is thankfully less common than all the others found above. This service is common in older facilities that only have small 3-phase loads. It costs the utility less to supply this because only 2 transformers are needed on the utility pole.If you run into a service like this you have to be very careful with your solar system design. It is not uncommon for solar grid connected inverters to require a neutral connection on their output. If that is the case this inverter will check voltages not only phase to phase but also phase to neutral. As per UL there is a tight voltage tolerance allowed so the high leg will prevent the inverter from ever starting.  Some 3-phase inverters have a design that doesn’t require a neutral connection and these can be used. Another solution for small solar systems is to use a single phase inverter connected to Phase A and Phase C, this avoids the high leg and it till operate. If the system is larger using a 3-phase inverter is best, typically these inverters start at 15kW in size so if you can find one that will operate 240V 3-phase Delta this might work.  I purposely say might because you have to check with the utility.  If you can locate the transformers on the utility pole you will see one is smaller than the other and depending on the service amp rating provided this can be a limiting factor for a solar system maximum size. In some cases the utility may force a third pole mounted transfer be installed to turn this into a more standard 3-phase service type. If this is the case, it is typically because the utility is concern about balancing the output power of the solar system on their network.When completing a site assessment before you even enter the property try to locate the electrical service and look up for pole mounted transformers. If you see only two this is an indication there is a high leg. Also count the over head utility wires, are there three at the top of the pole? In some rural areas the utility may only string one or two wires at the pole top. If there is one the service is most likely single phase and if two there is good chance there is a high leg.  Another indicator is the circuit breaker panel as it should be labeled that there is a high leg inside. If there is no labeling but you see the single phase breakers skip around and there are a lot of skipped unused spaces, there is a good chance this is a high leg."
+  },
+  
+  {
+    "title": "Solar PV Module Efficiency",
+    "url": "/posts/Solar-PV-Module-Efficiency/",
+    "categories": "Array, Module",
+    "tags": "Solar Concepts",
+    "date": "2025-02-10 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Solar PV Module EfficiencyThe efficiency of a solar module is a way to rate the power density of a solar module. For example if you have a solar module that is 1 meter long by 1 meter wide and prod...",
+    "content": "Solar PV Module EfficiencyThe efficiency of a solar module is a way to rate the power density of a solar module. For example if you have a solar module that is 1 meter long by 1 meter wide and produces 1000 watts, this would be a 100% efficient solar module as all of the available sunlight (1000 watts per square meter (w/m2) is converted to electrical output.The formula for calculating efficiency is:Efficiency % = (Power) / (Length) (Width) (1000W/M2)  Power is the rating of the solar module in watts  Length and Width is the size of the solar module in meters. In this step you are calculating the area of the module (meters squared).  The 1000 W/M2 is the typical suns maximum output that is used when rating solar modules.Here is an example calculation for a SolarWorld SW280:280W Module1.675M (65.94 in) long by 0.951M (39.41 in)wide(280W) / (1.675M) (1.001M) (1000W/M2) = 0.167 or 16.7%Efficiency is important if you have limited space but please don’t make purchase decisions based solely on efficiency. I selected SolarWorld for this example because they have a clear design difference when compared to other modules. SolarWorld modules are slightly larger than a lot of the modules in the market place. Most modules are slightly smaller size at approximately 1.651M (65 in) by 0.9906M (39 in) and if it had an equal 280 watt output the efficiency would be 17.1%.To give you some background on module design, UL test standards provide minimum requirements for how far the solar cells used in the modules can be from the frame of the solar module. Some manufacturers make modules that meet this minimum requirement to push their module efficiency higher. The problem with this is that the solar module frame will collect a small amount of dirt over time and will start to shade the solar cell and lowering its output performance."
+  },
+  
+  {
+    "title": "Shadow Calculations for Row Spacing",
+    "url": "/posts/Shadow-Calculations-for-Row-Spacing/",
+    "categories": "Array, Sun",
+    "tags": "Solar Concepts",
+    "date": "2025-02-10 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Shadow Calculations for Row SpacingWhen designing a solar system there is often the need to understand how long a shadow will be so you can properly plan for row spacing between solar modules. Keep...",
+    "content": "Shadow Calculations for Row SpacingWhen designing a solar system there is often the need to understand how long a shadow will be so you can properly plan for row spacing between solar modules. Keep in mind that the sun travels in an arch across the sky so both the sun’s altitude position and the azimuth must be accounted for when determining the length of a shadow. Due to the suns path the following is an image of the shadow caused by a stick throughout the day.Notice the shape of the shadow. This is caused by the sun changing altitude as it changes azimuth. The center line is the shadow length at solar noon and each line is the shadow length every 30 minutes.When designing a solar system this is often used during the layout process. For example, if you are designing an array for a flat commercial rooftop and there is a 4 ft tall HVAC unit on the roof you need to know where to position the solar modules to avoid the shade.After you have created some templates for the areas you operate the steps for using the templates are straight forward to find the shadow length. The first step is to scale the shadow length template to the height of the object. Than you place the shadow lined on the corners of the object.Next you remove the shadow lines that don’t apply and outline is the objects shadow.Now you know where you can and can’t place the solar modules for optimum performance.To determine the shadow length in excel the following is a view of the formulas (see bottom most row in below image) to use in my program. The basic formulas are nothing more then geometry. The sun is the top corner of a right angle triangle. You are finding the angle of the sun and you know the height of the object causing the shadow. You are solving for the bottom length of the triangle.  The raw sun position data that I use comes from http://susdesign.com/sunposition/As you run these calculations and create drawing templates for your area, I recommend completing your base design and drawings around an object that is 1 unit high and you can pick the units. I made my templates using a 1 ft high object to make scaling easy. If I have an object that is 5 ft tall, I simple scale my shadow drawing by 5. In the below image the shadow is 2.1 ft long at solar noon for a 1 ft tall object.One item of note, is the day and time you select for your shadow calculations. I design systems in the USA so I selected Dec 21 which is the day the sun is the lowest in the sky and will produce the longest shadows. When I design a system I typically use 10 am to 2 pm as my solar window to avoid shade."
+  },
+  
+  {
+    "title": "Fixed or Tracking Array",
+    "url": "/posts/Fixed-or-Tracking-Array/",
+    "categories": "Array, Mounting",
+    "tags": "Solar Concepts",
+    "date": "2025-02-10 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Fixed or Tracking ArrayThe solar array can be either fixed mounted or mounted on a sun tracking rack that follows the sun. There are two main types of track racks, one axis of rotation, or sun-trac...",
+    "content": "Fixed or Tracking ArrayThe solar array can be either fixed mounted or mounted on a sun tracking rack that follows the sun. There are two main types of track racks, one axis of rotation, or sun-tracking with two axes of rotation.A sun tracking rack can increase the output of the solar modules because it will follow the sun throughout the day. To know whether you should consider a track rack you will need to complete a detailed cost analysis and return on investment calculation as this decision will be specific to your location and case.In general, I personally shy away from track racks for a few reasons. First I have found from experience that the maintenance for most of these systems can be a challenge, even more so as the array and rack ages. Keep in mind solar modules have a 25 year warranty and a life expectancy in excess of 40 years. With such a long life a rack that moves will break at some point and will need to be maintained. The next main reason I shy away from a track rack is the return on investment. Solar modules have come down so much in cost that it can be hard to justify the additional rack cost and the cost of maintenance for the tracking rack over just adding a few additional modules. The ROI will vary based on your location so if you are in a location like the south west US you might see a high enough output gain to more than justify the additional costs.Image Credit: NREL Changing System Parameters        http://rredc.nrel.gov/solar/calculators/pvwatts/system.html"
+  },
+  
+  {
+    "title": "Battery State of Charge vs Open Circuit Battery Voltage",
+    "url": "/posts/Battery-State-of-Charge-vs-Open-Circuit-Battery-Voltage/",
+    "categories": "Offgrid, Battery",
+    "tags": "Solar Concepts",
+    "date": "2025-02-10 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Battery State of Charge vs Open Circuit Battery VoltageA common question I receive refers to determining the lead acid battery state of charge based on battery voltage. If you have a load running, ...",
+    "content": "Battery State of Charge vs Open Circuit Battery VoltageA common question I receive refers to determining the lead acid battery state of charge based on battery voltage. If you have a load running, the battery voltage will drop and if there is a charging source the voltage will increase. To eliminate these external factors, turn off all loads and disconnect the solar array to allow the battery voltage to stabilize. This is referred to as the battery open circuit voltage. Once stable the following will provide a good reference for the battery state of charge.            State of Charge (%)      12V      24V      48V                  100      12.83      25.66      51.32              90      12.72      25.44      50.88              80      12.60      25.20      50.40              70      12.47      24.94      49.88              60      12.34      24.68      49.36              50      12.20      24.40      48.80              40      12.06      24.12      48.24              30      11.91      23.82      47.64              20      11.76      23.52      47.04              10      11.61      23.22      46.44      "
+  },
+  
+  {
+    "title": "Weight of Typical Pitched Roof Solar System",
+    "url": "/posts/Weight-of-Typical-Pitched-Roof-Solar-System/",
+    "categories": "Array, Mounting",
+    "tags": "Solar Concepts",
+    "date": "2025-02-08 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Weight of Typical Pitched Roof Solar SystemWeight of Typical Pitched Roof Solar SystemThe purpose of this document is to provide the typical weight of a pitched roof solar system. For this example ...",
+    "content": "Weight of Typical Pitched Roof Solar SystemWeight of Typical Pitched Roof Solar SystemThe purpose of this document is to provide the typical weight of a pitched roof solar system. For this example I’ll use the above image to represent the typical layout of the solar array.The typical 60 cell solar module is 39.1” by 65.94”.(39.1”) x (65.94”) / (144” / ft2) = (17.90 ft2) x (8 modules) = (143.2 ft2)(498.16 lb) / (143.2 ft2) = 3.5 PSFIf you eliminate the micro inverters (458.16 lb) / (143.2 ft2) = 3.2 PSFCompared to shingles, solar modules are light. The typical 3 tab or laminated shingle will weight 200 lb (thin 3-tab shingle) to 480 lb (30 year architectural shingles) per roof square (100 sq ft) that works out to be 2 to 4.8 PSF.Since the 70’s residential roofs have been designed to hold two layers of shingles so if a house has just one layer of shingles it should be able to easily support solar modules.Image Credit: SolarWorld SunFix Rack"
+  },
+  
+  {
+    "title": "Sun Path",
+    "url": "/posts/Sun-Path/",
+    "categories": "Array, Sun",
+    "tags": "Solar Concepts",
+    "date": "2025-02-08 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Sun PathThe sun’s path is a key concept to understand both when designing a solar electric system and when trying to understand the performance of a solar electric system. The sun’s path refers to ...",
+    "content": "Sun PathThe sun’s path is a key concept to understand both when designing a solar electric system and when trying to understand the performance of a solar electric system. The sun’s path refers to the seasonal and hourly changes of the sun as the Earth rotates and orbits the sun. This relates to a solar system is the following ways:  Shadow Length  System Performance  Tilt AngleBased on a solar system being located in the Northern Hemisphere the following is true.The sun path is basically an arch through the sky. The sun will rise in the east and set in the west. At solar noon the sun is at its highest peak on the sun path arch. At lower latitudes the sun will be higher in the sky then if you are located at a higher latitude.  The following are some images to illustrate the sun’s path through out the year. As you can see the hour of the day and the month clearly relates to the sun path. Each of the following was generated based on the 21st day of each month shown.  Each of the following three example is based on a location with a different latitude so please note how the peak solar elevations change."
+  },
+  
+  {
+    "title": "Solar Cells, Modules, and Arrays",
+    "url": "/posts/Solar-Cells-Modules-and-Arrays/",
+    "categories": "Array, Modules",
+    "tags": "Solar Concepts",
+    "date": "2025-02-08 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Solar Cells, Modules, and ArraysWhat is the difference between a Solar Cell, a Solar Module, and a Solar Array?A solar cell is the basic building block of a solar module. Each cell produces approxi...",
+    "content": "Solar Cells, Modules, and ArraysWhat is the difference between a Solar Cell, a Solar Module, and a Solar Array?A solar cell is the basic building block of a solar module. Each cell produces approximately 1/2 a volt and a solar module can have any number of solar cells. A solar module designed for charging a 12 volt battery will typically have 36 solar cells while the typical residential grid connected system uses solar modules with 60 solar cells. For large commercial and utility scale solar systems, solar modules will have typically 72 solar cells.  By increasing the number of solar cells the module voltage and wattage increases.Most solar cells manufactured today are approximately 6″ by 6″. Small custom solar modules will contain solar cells that are cut to smaller sizes. For example if a full size solar cell produces 10 amps and it is cut ion half it will now only produce 5 amps. As the solar cell is cut in half, its typical voltage remains unchanged at 1/2 a volt."
+  },
+  
+  {
+    "title": "Solar Azimuth",
+    "url": "/posts/Solar-Azimuth/",
+    "categories": "Array, Sun",
+    "tags": "Solar Concepts",
+    "date": "2025-02-08 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Solar AzimuthSolar Azimuth is the angular measurement that represents the direction a tilted solar module or solar array will face.  It is most commonly measured with reference to True North.  With...",
+    "content": "Solar AzimuthSolar Azimuth is the angular measurement that represents the direction a tilted solar module or solar array will face.  It is most commonly measured with reference to True North.  With North being known as 0 or 360 degrees and south being 180 degrees."
+  },
+  
+  {
+    "title": "Series and Parallel Wiring",
+    "url": "/posts/Series-and-Parallel-Wiring/",
+    "categories": "Array, Wiring",
+    "tags": "Solar Concepts",
+    "date": "2025-02-08 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Series and Parallel WiringWhat is the difference with series and parallel wiring?The following image is a great example of series and parallel wiring.Series Wiring:Series wiring is when the voltage...",
+    "content": "Series and Parallel WiringWhat is the difference with series and parallel wiring?The following image is a great example of series and parallel wiring.Series Wiring:Series wiring is when the voltage of a solar array is increased by wiring the positive of one solar module to the negative of another solar module. This is similar to installing batteries in a flashlight. As you slide the batteries into the flashlight tube the voltage increases.Parallel Wiring:Parallel wiring increases the current (amps) output of a solar array while keeping the voltage the same. Parallel wiring is when the positives of multiple modules are connected together and all the negatives for the same modules are connected together.Series Parallel Combination:Here is an example of what is found in most large solar systems, a series and parallel wiring combination."
+  },
+  
+  {
+    "title": "Roof Pitch and Roof Angle",
+    "url": "/posts/Roof-Pitch-and-Roof-Angle/",
+    "categories": "Array, Mounting",
+    "tags": "Solar Concepts",
+    "date": "2025-02-08 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Roof Pitch and Roof Angle (Degrees)The tilt angle of the solar array is taken into consideration when the system is being designed.  The tilt angle in degrees is used when determining the performan...",
+    "content": "Roof Pitch and Roof Angle (Degrees)The tilt angle of the solar array is taken into consideration when the system is being designed.  The tilt angle in degrees is used when determining the performance of a solar system. If the solar system is being ground mounted or tilted up on a flat roof top the tilt angle is also used to determine the row spacing of the array so the front row of modules will not shade the row of modules behind it. If you are looking at a roof plan for your home or business very rarely will it list the roof pitch in degrees, instead it lists the rise and the run of the roof. For example a 7:12 roof pitch means that for ever 12″ of horizontal distance the roof will increase in height by 7″.  The following diagram will let you easily convert roof pitch to degrees; a 7:12 pitch equals 30.26 degrees."
+  },
+  
+  {
+    "title": "Electrical Fundamentals",
+    "url": "/posts/Electrical-Fundamentals/",
+    "categories": "Electrical, Grounding",
+    "tags": "Solar Concepts",
+    "date": "2025-02-08 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Electrical FundamentalsHere is a real nice video covering electrical fundamentals mostly related to grounding and bonding of electrical systems. This can be a confusing topic for people starting ou...",
+    "content": "Electrical FundamentalsHere is a real nice video covering electrical fundamentals mostly related to grounding and bonding of electrical systems. This can be a confusing topic for people starting out and for experts. This 1 hour and 13 minute video will teach you a lot.  Mike Holt produced this video and is a well respected expert. In this video he will relate electrical fundamentals to the National Electrical Code (NEC)."
+  }
+  
+]
+
