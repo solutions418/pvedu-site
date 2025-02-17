@@ -1,6 +1,176 @@
 [
   
   {
+    "title": "Designing an Off Grid Solar Electric System, Step 3a, Determine the Amount of Solar Needed Using an MPPT Controller",
+    "url": "/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-3a-Determine-the-Amount-of-Solar-Needed-Using-an-MPPT-Controller/",
+    "categories": "Offgrid",
+    "tags": "Off Grid, Design",
+    "date": "2025-02-16 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Designing an Off Grid Solar Electric System, Step 3a, Determine the Amount of Solar Needed Using an MPPT ControllerThe basic calculation for this step is:(Load) x (Recharge Factor)  x (MPPT Control...",
+    "content": "Designing an Off Grid Solar Electric System, Step 3a, Determine the Amount of Solar Needed Using an MPPT ControllerThe basic calculation for this step is:(Load) x (Recharge Factor)  x (MPPT Controller Loss)  /  (Sun Hours) = (Array Size Needed)We know the load from Step 2.The recharge factor is a way to account for the probability of a clear day. Without this factor if it is cloudy today you will not be able to fully recharge the batteries tomorrow.  Without getting into too much detail on determining this number here are some basic rules to help.Recharge Factor1.15 &lt; Use this factor if this is not a critical load and if it is ok if the system fails to operate.  This could be an area light in a parking lot and if it doesn’t turn on for a few nights a year that is ok.1.2 &lt;  I use this number as my default. In most location this factor will provide a well design system that will operate all year long without failing.1.3 &lt; If the system is critical and can not fail then increase the recharge factor. This could be peice of industrial equipment and if it fails to operate might cause a disruption in service.MPPT Controller LossesNothing operates at 100% efficiency so every time power is changed or converted there are losses to account for in the calculation. Because these controllers use slower computer processors to keep costs low they don’t always operate at the exact correct max output of the solar array. They are also converting DC voltages twice so while they offer a huge increase in power output you need to account for their losses. Unfortunately all of the data sheets and tech bulletins from MPPT controller manufacturers that I have reviewed didn’t list their efficiency or losses. Hopefully this will change over time but for now with limited information I would use a multiplier of 1.10 to account for controller losses.Location, Sun Hourshttp://pvwatts.nrel.govFind the location of the site. If you are in the USA use the above link for PV Watts as the best source to determine the suns strength. Please note that PV Watts is not for battery based system designs, we are only using it to find the sun hours for a location.  Above is also a link to some generic irradiance maps that show the minimum sun hours.With PV Watts, enter your zip code to find the location. On the system info page enter 1 kW for the DC system size and if your system will not face south change the 180 to match the system site. For tilt angle, stepper is better for off grid systems. In the USA, the winter has the shortest days so we need to design and optimize the system for this time of the year. Start at 50 Degrees and run the program a couple of times to see if this is the right tilt for your location, vary the tilt up and down until you find the highest worst case sun hour.  The number to focus at on the result page is the minimum number under the column labeled Solar Radiation ( kWh / m2 / day). The minimum number will typically fall on either in December, January or February. This is the worst case sun for the location and the design parameter needed. This min number can be referred to as the sun hours and is essentially the number of hours. If you graph the output of the sun throughout the day and total the area under the graph is the sun hours.For round numbers let’s use 3 hours.Putting it all together:(Load) x (Recharge Factor)  x (MPPT Controller Loss)  /  (Sun Hours) = (Array Size Needed)(985 Wh/day) x (1.2 Recharge Factor) x  (1.1 MPPT Loss) = (1300.2 Wh/day)(1300.2 Wh/day)  represent the amount of power we want the solar array to produce(1300.2 Wh/day)  /  (3 sun hours) = (433.4 watts of solar modules is needed)If using a 280 watt module this would round to 2 solar modules."
+  },
+  
+  {
+    "title": "Designing an Off Grid Solar Electric System, Step 2, Determine the Total Load",
+    "url": "/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-2-Determine-the-Total-Load/",
+    "categories": "Offgrid",
+    "tags": "Off Grid, Design",
+    "date": "2025-02-16 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Designing an Off Grid Solar Electric System, Step 2, Determine the Total LoadThe starting point for any calculation is knowing the load. Conservation is key! If you can conserve power by using a mo...",
+    "content": "Designing an Off Grid Solar Electric System, Step 2, Determine the Total LoadThe starting point for any calculation is knowing the load. Conservation is key! If you can conserve power by using a more efficient load you should. If you can cut your load in half you system cost also cuts in half. Conserve!This can be the hardest step in the whole process so take your time and be accurate.If this is a small system, for example a sign light, select loads of all the same operating voltage. Don’t try to have a 24Vdc load and a 12Vdc loads operate in the system system. While you can do this using a DC to DC voltage converter you are introducing 20% losses running power through the voltage converter, remember to conserve.The ultimate goal is to know how much power you will use in a 24 hour day.DC Load ExampleFlood Light, 30 Watts @ 12VdcIf this light will run dusk to dawn you need to know the maximum hours it will operate. In the USA, Google the sunrise and sunset times for December 21st. In my area it works out that I have 15 hours of darkness.30W x 15H/day = 450 WH/day @ 12VdcFor a DC system this is the load total to carry forward to step 3.AC Load Example, 120VacLoad #1, 100W x 4 Hours/day = 400 WH/dayLoad #2, 50W x 6 Hours = 300 WH/dayTotal = 700 WH/day @ 120VacTo make the AC power for the DC batteries a DC to AC inverter is used. As power is converted you will have losses so the next step is to look for an inverter that can produce a minimum of 150 watts (100W plus 50W load being on at the same time) to find its efficiency.  In this example let’s assume it will operate at 85% efficient (15% losses).  On that same inverter specification look for the standby wattage rating. In this case the loads are off more than they are on so the inverter will be sitting with no load. Even without a load the inverter will consume power. Inexpensive small inverters can consume 5 to 10 watts or more without any loads at all connected to them. Large inverters for remote cabins (4000 watts and larger) typically will have a circuit to detect if there is a load connected and reduce the standby current to 1 watt or less. Small inverters don’t include this circuit as they are typically wired to energy sources like alternators that have unlimited supply of recharging power so there is no incentive to conserve power and reduce losses.  In this example lets use 10 watts as the standby no load loss.Total from above = 700 WH/day @ 120Vac700 WH/day x 1.15 (inverter loss) = 805 WH/dayIf we assume both loads operate at the same time this leaves  (24H – 6H = 18H) 18 hours in the day.10W standby loss x 18H = 180 WH/dayNew total AC load805 WH/day + 180 WH/day = 985 WH/day @ dcNow that you have account for the AC losses think of this as a DC wattage hence the @  dc.For an AC load the 985 WH/day @ dc is the load to carry forward to step 3a.DC to AC Inverter SelectionA couple of notes about selecting an inverter to power your AC load. As you are determining your total load please keep in mind and total the wattage of all the loads that can be on at the same time. This total because the minimum rating of the inverters output. Also keep track of the surge wattage required to start your loads. For example if you have a well pump, the inverter must product enough power to overcome the locked rotor amps, LRA, of the motor to start it. Once the motor is running it takes less power to maintain its movement. This rating is also used to select your inverter. The total of any loads that could start at the same time should be the minimum surge rating of the inverter.Loads that Don’t Run DailyIf you have a list of loads and notice that not all of them run daily there is one more step to your calculation. You need to calculate the daily average load. For example if you have a load that runs 3 days per week, multiply your WH/day for this load by a ratio of 3/7 to determine the average daily load."
+  },
+  
+  {
+    "title": "Designing an Off Grid Solar Electric System, Step 1, Planning Considerations",
+    "url": "/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-1-Planning-Considerations/",
+    "categories": "Offgrid",
+    "tags": "Off Grid, Design",
+    "date": "2025-02-16 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Designing an Off Grid Solar Electric System, Step 1, Planning ConsiderationsDesigning an Off Grid Solar Electric System, Step 1, Planning ConsiderationsBefore you run any calculations you need to h...",
+    "content": "Designing an Off Grid Solar Electric System, Step 1, Planning ConsiderationsDesigning an Off Grid Solar Electric System, Step 1, Planning ConsiderationsBefore you run any calculations you need to have a starting point and this is it. There are equipment limitations that you need to be aware of as you start to design an off grid solar electric system.Charge Controller LimitationsThe charge controller, controls the output of the solar array and prevents the batteries from being overcharged. There are two basic types available a PWM and a MPPT.A PWM controller, is a pulse width modulation controller and with this style controller you need a solar module that is designed to charge batteries producing the correct output voltage.  For small systems with solar arrays under 100 watts, a PWM will give you the best design for the lowest cost.Any larger systems should use a more expensive MPPT controller that will generate more power from the solar module. An MPPT controller is a max power point tracking controller that uses a DC to DC voltage converter to find the best voltage for the solar array to operate and produce the most power. This voltage is typically very different then the battery voltage so a second DC to DC voltage converter is used to change the solar voltage to a voltage needed to properly charge the battery. An MPPT controller can extract 20% to 30% more power from the same solar module just because of its more sophisticated design.MPPT controllers offer other advantages with larger solar arrays from the standpoint that the solar array can be wired for a high voltage output to charge a low voltage battery bank. For example, with the correct controller, the array can be wired for a max of 600Vdc and charge a 48 volt battery bank. This will let you run longer DC conductors from the solar array to the battery bank with a lot less voltage loss. This also eliminates the need for a lot of fusing and high current DC disconnects resulting in a less expensive installation.Solar Module LimitationsQuick background on solar modules, in general each solar cell produces approximately 0.5 volts so the more cells a solar module has the higher its output voltage will be.In the 1990’s and earlier most solar modules had 36 solar cells and produced approximately 18 volts which was good for changing  a 12V battery. Once you accounted for heat and wiring losses the 18 volt output would roughly match the battery voltage which ranges from 10.5 volts (dead battery) to 14.3 volts (full battery while charging). Since the voltage roughly matched, solar modules were directly connected to batteries with nothing more than a voltage controlled switch (charge controller) between them that disconnected the battery at a certain voltage to prevent over charge. As the industry moved to higher volume grid connected system in the 2000’s solar modules were becoming larger as larger and more solar cells were used in their construction. 54 solar cells was normal with 60 cell and now 72 cell modules quickly following suit. In order to use these lower cost standard designed 60 and 72 cell solar modules you must use an MPPT controller to properly charge a battery bank."
+  },
+  
+  {
+    "title": "Solar System with Direct Load",
+    "url": "/posts/Solar-System-with-Direct-Load/",
+    "categories": "System Type",
+    "tags": "System Type, Direct Load",
+    "date": "2025-02-15 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Solar System with Direct LoadThis type of solar system is by far the most simply. Often there are only two main components in the system. The solar modules are connected directly to a load which is...",
+    "content": "Solar System with Direct LoadThis type of solar system is by far the most simply. Often there are only two main components in the system. The solar modules are connected directly to a load which is often a motor. When ever the sun is up and shining the motor will work. Unlike electronics a motor can take a variable voltage and current input without being damaged.  A solar powered attic fan is a great example of this system type.Another good example is a water pump. With a water pumping system, instead of storing energy water is stored. For example, if a rancher is pumping water for cows, the water is stored in a tank and that tank is used when needed to fill troughs for the animals.  With most modern water pumping systems there is another component typically in the system between the solar array and the pump that controls the output of the solar array to better optimize the pumps operation.*Please keep in mind that for clarity I didn’t include any disconnects or over current protection in this system description. These items are typically required in ever system for safety."
+  },
+  
+  {
+    "title": "Off Grid Solar System with DC and AC Loads",
+    "url": "/posts/Off-Grid-Solar-System-with-DC-and-AC-Loads/",
+    "categories": "System Type",
+    "tags": "System Type, Off Grid",
+    "date": "2025-02-15 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Off Grid Solar System with DC and AC Loads",
+    "content": "Off Grid Solar System with DC and AC Loads"
+  },
+  
+  {
+    "title": "Off Grid Solar System with DC Loads",
+    "url": "/posts/Off-Grid-Solar-System-with-DC-Loads/",
+    "categories": "System Type",
+    "tags": "System Type, Off Grid",
+    "date": "2025-02-15 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Off Grid Solar System with DC LoadsAn off grid solar system is a solar system that operates without any utility backup. These systems are typically remote where the cost of running a utility connec...",
+    "content": "Off Grid Solar System with DC LoadsAn off grid solar system is a solar system that operates without any utility backup. These systems are typically remote where the cost of running a utility connection is more expensive then purchasing an off grid solar system. I have design and installed off gird systems that power remote data loggers, flow meters for gas lines, radiation monitoring systems, remote cabins, sign lighting, area lighting and much more. In this example any DC load can be powered with solar.In this example the solar module is wired through a fuse to a charge controller. The charge controller prevents the solar module from over charging the battery. Most modern charge controller will also have a built in load controller. The load controller will disconnect the load of the battery voltage drops too low. This will prevent the load and the battery from being damaged. If a battery is discharged too low the acid inside becomes more of a water solution and can easily freeze. With some charge controllers the  load controller can be used as a dusk to dawn timer where the solar module is used to determine if the sun is up or down and the load (light) is turned on or off.  The energy from the solar module is stored in the battery and is consumed by the load. The correct balance of power in and power out needs to be maintained for system reliability."
+  },
+  
+  {
+    "title": "Grid Tied Residential and Small Commercial Solar System with String Inverter",
+    "url": "/posts/Grid-Tied-Residential-and-Small-Commercial-Solar-System-with-String-Inverter/",
+    "categories": "System Type",
+    "tags": "System Type, String Inverter",
+    "date": "2025-02-15 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Grid Tied Residential and Small Commercial Solar System with String InverterThis type of system is a great starting point to understand the typical system. The solar modules are wired in series and...",
+    "content": "Grid Tied Residential and Small Commercial Solar System with String InverterThis type of system is a great starting point to understand the typical system. The solar modules are wired in series and parallel to form a solar array at a voltage and current level that matches the inverters input.  The wiring behind the solar modules is a single conductor wire that is transitioned at a junction box to wire that is inside of conduit.  Conduit is used to protect the wiring and runs to a DC disconnect. The DC disconnect  will allow the DC input to be turned off so the inverter can be serviced safely.  The inverter will convert the DC input into an AC output that matches the utility grid it is connected. The inverter is the true brains of the system and is responsible for the systems safe interconnection to the utility and its safe operation.  The inverter is than wired to an AC disconnect so the AC power can be isolated from the inverter turning the entire system off. Most systems will have a solar kWh, kilo-watt hour, meter to accurately record the output of the system.  From there is the system is wired into the utility grid.A system like this works by offsetting the amount of power a home or business consumes from the utility company. Essentially the utility meter will spin backwards during the day earning you a credit that is used in the evening.  If the utility power fails, this system is designed to turn off and not produce power. There are new inverters in the market place that include secure power supplies to supply some limited backup power to an outlet without the need for batteries."
+  },
+  
+  {
+    "title": "Grid Tied Residential and Small Commercial Solar System with Micro Inverters",
+    "url": "/posts/Grid-Tied-Residential-and-Small-Commercial-Solar-System-with-Micro-Inverters/",
+    "categories": "System Type",
+    "tags": "System Type, Micro Inverters",
+    "date": "2025-02-15 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Grid Tied Residential and Small Commercial Solar System with Micro InvertersThis type of system is very popular as it is one of the easiest ways to meet the newest safety codes that require each so...",
+    "content": "Grid Tied Residential and Small Commercial Solar System with Micro InvertersThis type of system is very popular as it is one of the easiest ways to meet the newest safety codes that require each solar module to be rapidly shutdown for safety. Each solar module is wired directly to a micro inverter. Due to this one to one relationship of solar modules to micro inverters the solar module can face any direction without hurting the output of other modules. The wiring of the micro inverter output is typically to a trunk cable which is an AC cable assembly with connectors for the micro inverters.  Conduit is used from the rooftop AC junction boxes to protect the wiring.  These output trunk cables are run to an AC combiner box (AC sub panel with breakers) to provide overcurrent protection to the AC cables.The AC sub panel is than wired to an AC disconnect so the AC power can be isolated from the inverter turning the entire system off. Most systems will have a solar kWh, kilo-watt hour, meter to accurately record the output of the system.  From there is the system is wired into the utility grid.A system like this works by offsetting the amount of power a home or business consumes from the utility company. Essentially the utility meter will spin backwards during the day earning you a credit that is used in the evening.  If the utility power fails, this system is designed to turn off and not produce power. There are new inverters in the market place that include secure power supplies to supply some limited backup power to an outlet without the need for batteries."
+  },
+  
+  {
+    "title": "Grid Tied Large Commercial Solar System",
+    "url": "/posts/Grid-Tied-Large-Commercial-Solar-System/",
+    "categories": "System Type",
+    "tags": "System Type, String Inverter",
+    "date": "2025-02-15 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Grid Tied Large Commercial Solar System",
+    "content": "Grid Tied Large Commercial Solar System"
+  },
+  
+  {
+    "title": "Grid Tied Battery Backup Solar System",
+    "url": "/posts/Grid-Tied-Battery-Backup-Solar-System/",
+    "categories": "System Type",
+    "tags": "System Type, Battery",
+    "date": "2025-02-15 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "Grid Tied Battery Backup Solar System",
+    "content": "Grid Tied Battery Backup Solar System"
+  },
+  
+  {
     "title": "Wind Speed, Snow Load, Seismic Ratings",
     "url": "/posts/Wind-Speed-Snow-Load-Seismic-Ratings/",
     "categories": "Mounting, Design",
@@ -20,8 +190,8 @@
   {
     "title": "US Irradiance Maps",
     "url": "/posts/US-Irradiance-Maps/",
-    "categories": "Electrical, Design",
-    "tags": "Design Parameters",
+    "categories": "System Output Performance",
+    "tags": "Design Parameters, Irradiance",
     "date": "2025-02-12 00:00:00 -0500",
     
 
@@ -55,7 +225,7 @@
     "title": "Conduit Fill Table",
     "url": "/posts/Conduit-Fill-Table/",
     "categories": "Electrical, Design",
-    "tags": "Design Parameters",
+    "tags": "Design Parameters, Conductors, Design",
     "date": "2025-02-12 00:00:00 -0500",
     
 
@@ -72,7 +242,7 @@
     "title": "Conductor Ampacity of CU",
     "url": "/posts/Conductor-Ampacity-of-CU/",
     "categories": "Electrical, Design",
-    "tags": "Design Parameters",
+    "tags": "Design Parameters, Conductors, Design",
     "date": "2025-02-12 00:00:00 -0500",
     
 
@@ -89,7 +259,7 @@
     "title": "Conductor Ampacity of AL",
     "url": "/posts/Conductor-Ampacity-of-AL/",
     "categories": "Electrical, Design",
-    "tags": "Design Parameters",
+    "tags": "Design Parameters, Conductors, Design",
     "date": "2025-02-12 00:00:00 -0500",
     
 
@@ -106,7 +276,7 @@
     "title": "Calculate Array Voltage",
     "url": "/posts/Calculate-Array-Voltage/",
     "categories": "Electrical, Design",
-    "tags": "Solar Concepts",
+    "tags": "Solar Concepts, Design",
     "date": "2025-02-12 00:00:00 -0500",
     
 
@@ -139,7 +309,7 @@
   {
     "title": "sREC – Solar Renewable Energy Credits",
     "url": "/posts/sREC-Solar-Renewable-Energy-Credits/",
-    "categories": "System, Revenue",
+    "categories": "Revenue",
     "tags": "Solar Concepts",
     "date": "2025-02-11 00:00:00 -0500",
     
@@ -156,8 +326,8 @@
   {
     "title": "Solar System Output",
     "url": "/posts/Solar-System-Output/",
-    "categories": "Array, Performance",
-    "tags": "Solar Concepts",
+    "categories": "System Output Performance",
+    "tags": "Solar Concepts, Performance",
     "date": "2025-02-11 00:00:00 -0500",
     
 
@@ -174,7 +344,7 @@
     "title": "Roof Zones",
     "url": "/posts/Roof-Zones/",
     "categories": "Array, Mounting",
-    "tags": "Solar Concepts",
+    "tags": "Solar Concepts, Rooftop",
     "date": "2025-02-11 00:00:00 -0500",
     
 
@@ -225,7 +395,7 @@
     "title": "Shadow Calculations for Row Spacing",
     "url": "/posts/Shadow-Calculations-for-Row-Spacing/",
     "categories": "Array, Sun",
-    "tags": "Solar Concepts",
+    "tags": "Solar Concepts, Performance",
     "date": "2025-02-10 00:00:00 -0500",
     
 
@@ -242,7 +412,7 @@
     "title": "Fixed or Tracking Array",
     "url": "/posts/Fixed-or-Tracking-Array/",
     "categories": "Array, Mounting",
-    "tags": "Solar Concepts",
+    "tags": "Solar Concepts, Performance",
     "date": "2025-02-10 00:00:00 -0500",
     
 
@@ -258,8 +428,8 @@
   {
     "title": "Battery State of Charge vs Open Circuit Battery Voltage",
     "url": "/posts/Battery-State-of-Charge-vs-Open-Circuit-Battery-Voltage/",
-    "categories": "Offgrid, Battery",
-    "tags": "Solar Concepts",
+    "categories": "Battery",
+    "tags": "Solar Concepts, Battery",
     "date": "2025-02-10 00:00:00 -0500",
     
 
@@ -310,7 +480,7 @@
     "title": "Solar Cells, Modules, and Arrays",
     "url": "/posts/Solar-Cells-Modules-and-Arrays/",
     "categories": "Array, Modules",
-    "tags": "Solar Concepts",
+    "tags": "Solar Concepts, Solar Cells, Solar Modules, Solar Array",
     "date": "2025-02-08 00:00:00 -0500",
     
 
@@ -327,7 +497,7 @@
     "title": "Solar Azimuth",
     "url": "/posts/Solar-Azimuth/",
     "categories": "Array, Sun",
-    "tags": "Solar Concepts",
+    "tags": "Solar Concepts, Sun Position, Design",
     "date": "2025-02-08 00:00:00 -0500",
     
 
@@ -344,7 +514,7 @@
     "title": "Series and Parallel Wiring",
     "url": "/posts/Series-and-Parallel-Wiring/",
     "categories": "Array, Wiring",
-    "tags": "Solar Concepts",
+    "tags": "Solar Concepts, Wiring",
     "date": "2025-02-08 00:00:00 -0500",
     
 
@@ -361,7 +531,7 @@
     "title": "Roof Pitch and Roof Angle",
     "url": "/posts/Roof-Pitch-and-Roof-Angle/",
     "categories": "Array, Mounting",
-    "tags": "Solar Concepts",
+    "tags": "Solar Concepts, Rooftop",
     "date": "2025-02-08 00:00:00 -0500",
     
 
@@ -377,7 +547,7 @@
   {
     "title": "Electrical Fundamentals",
     "url": "/posts/Electrical-Fundamentals/",
-    "categories": "Electrical, Grounding",
+    "categories": "Electrical",
     "tags": "Solar Concepts",
     "date": "2025-02-08 00:00:00 -0500",
     

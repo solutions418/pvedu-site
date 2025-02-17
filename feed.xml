@@ -4,7 +4,7 @@
   <id>https://pveducation.com/</id>
   <title>PVeducation</title>
   <subtitle>Information about PV Solar, components, systems and design.</subtitle>
-  <updated>2025-02-15T18:37:21-05:00</updated>
+  <updated>2025-02-16T22:00:41-05:00</updated>
   <author>
     <name>PVeducation.com</name>
     <uri>https://pveducation.com/</uri>
@@ -20,131 +20,121 @@
 
   
   <entry>
-    <title>Wind Speed, Snow Load, Seismic Ratings</title>
-    <link href="https://pveducation.com/posts/Wind-Speed-Snow-Load-Seismic-Ratings/" rel="alternate" type="text/html" title="Wind Speed, Snow Load, Seismic Ratings" />
-    <published>2025-02-12T00:00:00-05:00</published>
+    <title>Designing an Off Grid Solar Electric System, Step 3a, Determine the Amount of Solar Needed Using an MPPT Controller</title>
+    <link href="https://pveducation.com/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-3a-Determine-the-Amount-of-Solar-Needed-Using-an-MPPT-Controller/" rel="alternate" type="text/html" title="Designing an Off Grid Solar Electric System, Step 3a, Determine the Amount of Solar Needed Using an MPPT Controller" />
+    <published>2025-02-16T00:00:00-05:00</published>
   
-    <updated>2025-02-12T00:00:00-05:00</updated>
+    <updated>2025-02-16T00:00:00-05:00</updated>
   
-    <id>https://pveducation.com/posts/Wind-Speed-Snow-Load-Seismic-Ratings/</id>
-    <content type="text/html" src="https://pveducation.com/posts/Wind-Speed-Snow-Load-Seismic-Ratings/" />
+    <id>https://pveducation.com/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-3a-Determine-the-Amount-of-Solar-Needed-Using-an-MPPT-Controller/</id>
+    <content type="text/html" src="https://pveducation.com/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-3a-Determine-the-Amount-of-Solar-Needed-Using-an-MPPT-Controller/" />
     <author>
       <name>PVeducation.com</name>
     </author>
 
   
     
-    <category term="Mounting" />
-    
-    <category term="Design" />
+    <category term="Offgrid" />
     
   
 
-  <summary>When designing a solar system you often need to know the design parameters related to a specific location.</summary>
+  <summary>Determine the Amount of Solar Needed Using an MPPT Controller</summary>
 
   </entry>
 
   
   <entry>
-    <title>US Irradiance Maps</title>
-    <link href="https://pveducation.com/posts/US-Irradiance-Maps/" rel="alternate" type="text/html" title="US Irradiance Maps" />
-    <published>2025-02-12T00:00:00-05:00</published>
+    <title>Designing an Off Grid Solar Electric System, Step 2, Determine the Total Load</title>
+    <link href="https://pveducation.com/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-2-Determine-the-Total-Load/" rel="alternate" type="text/html" title="Designing an Off Grid Solar Electric System, Step 2, Determine the Total Load" />
+    <published>2025-02-16T00:00:00-05:00</published>
   
-    <updated>2025-02-12T00:00:00-05:00</updated>
+    <updated>2025-02-16T00:00:00-05:00</updated>
   
-    <id>https://pveducation.com/posts/US-Irradiance-Maps/</id>
-    <content type="text/html" src="https://pveducation.com/posts/US-Irradiance-Maps/" />
+    <id>https://pveducation.com/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-2-Determine-the-Total-Load/</id>
+    <content type="text/html" src="https://pveducation.com/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-2-Determine-the-Total-Load/" />
     <author>
       <name>PVeducation.com</name>
     </author>
 
   
     
-    <category term="Electrical" />
-    
-    <category term="Design" />
+    <category term="Offgrid" />
     
   
 
-  <summary>Here are some good US irradiance maps to show how the amount of irradiance varies throughout the US.</summary>
+  <summary>The starting point for any calculation is knowing the load. Conservation is key! If you can conserve power by using a more efficient load you should. If you can cut your load in half you system cost also cuts in half.</summary>
 
   </entry>
 
   
   <entry>
-    <title>Temp Adjustment Conduit on Roof</title>
-    <link href="https://pveducation.com/posts/Temp-Adjustment-Conduit-on-Roof/" rel="alternate" type="text/html" title="Temp Adjustment Conduit on Roof" />
-    <published>2025-02-12T00:00:00-05:00</published>
+    <title>Designing an Off Grid Solar Electric System, Step 1, Planning Considerations</title>
+    <link href="https://pveducation.com/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-1-Planning-Considerations/" rel="alternate" type="text/html" title="Designing an Off Grid Solar Electric System, Step 1, Planning Considerations" />
+    <published>2025-02-16T00:00:00-05:00</published>
   
-    <updated>2025-02-12T00:00:00-05:00</updated>
+    <updated>2025-02-16T00:00:00-05:00</updated>
   
-    <id>https://pveducation.com/posts/Temp-Adjustment-Conduit-on-Roof/</id>
-    <content type="text/html" src="https://pveducation.com/posts/Temp-Adjustment-Conduit-on-Roof/" />
+    <id>https://pveducation.com/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-1-Planning-Considerations/</id>
+    <content type="text/html" src="https://pveducation.com/posts/Designing-an-Off-Grid-Solar-Electric-System-Step-1-Planning-Considerations/" />
     <author>
       <name>PVeducation.com</name>
     </author>
 
   
     
-    <category term="Electrical" />
-    
-    <category term="Design" />
+    <category term="Offgrid" />
     
   
 
-  <summary>When conduit is run on a roof top studies have shown the conduit will heat. The following table will provide a temperature adder based on the conduit mounting height.</summary>
+  <summary>Before you run any calculations you need to have a starting point and this is it. There are equipment limitations that you need to be aware of as you start to design an off grid solar electric system.</summary>
 
   </entry>
 
   
   <entry>
-    <title>Conduit Fill Table</title>
-    <link href="https://pveducation.com/posts/Conduit-Fill-Table/" rel="alternate" type="text/html" title="Conduit Fill Table" />
-    <published>2025-02-12T00:00:00-05:00</published>
+    <title>Solar System with Direct Load</title>
+    <link href="https://pveducation.com/posts/Solar-System-with-Direct-Load/" rel="alternate" type="text/html" title="Solar System with Direct Load" />
+    <published>2025-02-15T00:00:00-05:00</published>
   
-    <updated>2025-02-12T00:00:00-05:00</updated>
+    <updated>2025-02-15T00:00:00-05:00</updated>
   
-    <id>https://pveducation.com/posts/Conduit-Fill-Table/</id>
-    <content type="text/html" src="https://pveducation.com/posts/Conduit-Fill-Table/" />
+    <id>https://pveducation.com/posts/Solar-System-with-Direct-Load/</id>
+    <content type="text/html" src="https://pveducation.com/posts/Solar-System-with-Direct-Load/" />
     <author>
       <name>PVeducation.com</name>
     </author>
 
   
     
-    <category term="Electrical" />
-    
-    <category term="Design" />
+    <category term="System Type" />
     
   
 
-  <summary>As a solar system is designed you need to select the correct size conductor. The following tables will help in that selection.</summary>
+  <summary>Learn about different types of solar systems.</summary>
 
   </entry>
 
   
   <entry>
-    <title>Conductor Ampacity of CU</title>
-    <link href="https://pveducation.com/posts/Conductor-Ampacity-of-CU/" rel="alternate" type="text/html" title="Conductor Ampacity of CU" />
-    <published>2025-02-12T00:00:00-05:00</published>
+    <title>Off Grid Solar System with DC and AC Loads</title>
+    <link href="https://pveducation.com/posts/Off-Grid-Solar-System-with-DC-and-AC-Loads/" rel="alternate" type="text/html" title="Off Grid Solar System with DC and AC Loads" />
+    <published>2025-02-15T00:00:00-05:00</published>
   
-    <updated>2025-02-12T00:00:00-05:00</updated>
+    <updated>2025-02-15T00:00:00-05:00</updated>
   
-    <id>https://pveducation.com/posts/Conductor-Ampacity-of-CU/</id>
-    <content type="text/html" src="https://pveducation.com/posts/Conductor-Ampacity-of-CU/" />
+    <id>https://pveducation.com/posts/Off-Grid-Solar-System-with-DC-and-AC-Loads/</id>
+    <content type="text/html" src="https://pveducation.com/posts/Off-Grid-Solar-System-with-DC-and-AC-Loads/" />
     <author>
       <name>PVeducation.com</name>
     </author>
 
   
     
-    <category term="Electrical" />
-    
-    <category term="Design" />
+    <category term="System Type" />
     
   
 
-  <summary>As a solar system is designed you need to select the correct size conductor. The following tables will help in that selection.</summary>
+  <summary>Learn about different types of solar systems.</summary>
 
   </entry>
 
